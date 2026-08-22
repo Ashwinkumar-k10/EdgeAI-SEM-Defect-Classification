@@ -212,7 +212,7 @@ EdgeAI-SEM-Defect-Classification/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Hireshkumaran-G/EdgeAI-SEM-Defect-Classification.git
+git clone https://github.com/Ashwinkumar-k10/EdgeAI-SEM-Defect-Classification.git
 cd EdgeAI-SEM-Defect-Classification
 ```
 
